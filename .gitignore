@@ -1,0 +1,29 @@
+# Ignorar el entorno virtual
+venv/
+.env
+
+# Ignorar archivos de caché de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignorar archivos de Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignorar archivos de configuración local (VS Code, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos temporales
+*.tmp
+*.swp
+
+# Ignorar archivos de compilación, binarios
+*.out
+*.o
+
+# Ignorar dependencias de Node.js si existieran
+node_modules/
